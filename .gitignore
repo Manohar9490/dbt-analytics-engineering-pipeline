@@ -1,0 +1,7 @@
+.venv
+_course_resources
+__pycache__
+.ipynb_checkpoints
+*.pyc
+*.pyo
+.devcontainer
