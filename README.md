@@ -48,6 +48,7 @@ BI / Dashboard
 
 ## Project Structure
 
+```
 .
 ├── models
 │ ├── src
@@ -78,6 +79,7 @@ BI / Dashboard
 │ └── no_empty_strings.sql
 │
 └── tests
+```
 
 ---
 
@@ -224,4 +226,5 @@ Dagster UI provides visibility into pipeline runs and allows triggering jobs man
 ## Author
 
 Manohar Killamsetti
-Data Engineer | Analytics Engineer
+
+Analytics Engineer | Data Engineer
