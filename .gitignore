@@ -1,7 +1,7 @@
 .venv
-_course_resources
+_course_resources/
+.devcontainer/
 __pycache__
 .ipynb_checkpoints
 *.pyc
 *.pyo
-.devcontainer
